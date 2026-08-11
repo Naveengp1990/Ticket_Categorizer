@@ -1,0 +1,999 @@
+ticket_id,ticket_text,department
+TCK-100522,I need HR assistance with my benefits; it has not been processed.,hr
+TCK-100738,I am contacting HR regarding employee portal related to my employee record as soon as possible.,hr
+TCK-100741,"hi team, The employment letter needs clarification.",hr
+TCK-100661,My salary statement needs to be submitted.,hr
+TCK-100412,Please troubleshoot API.,technical
+TCK-100679,Can you help? My payslip is showing an incorrect value help needed,hr
+TCK-100627,Could you check my HR request; it is not visible in the portal.,hr
+TCK-100514,I need clarification about salary related to my employee profile for my account.,hr
+TCK-100860,Can you help? Your products I would like more information.,general
+TCK-100137,Can you help? My subscription has an additional fee.,billing
+TCK-100812,My products I would like more information.,general
+TCK-100077,My invoice was charged twice,billing
+TCK-100637,I need clarification about my salary account; it needs approval.,hr
+TCK-100974,I have a question about your services; it can someone help me understand this.,general
+TCK-100939,Could you provide information about products,general
+TCK-100900,Please explain your services; it what options are available. help needed,general
+TCK-100281,I need technical help with the integration; it is not loading.,technical
+TCK-100884,Can you help? The support service can you tell me more.,general
+TCK-100762,I have a question about the support service; it what options are available.,general
+TCK-100320,Please look into verification code.,technical
+TCK-100550,My attendance is not visible in the portal.,hr
+TCK-100175,I have a question about fee.,billing
+TCK-100372,"thanks, I need technical help with dashboard.",technical
+TCK-100528,i have a question about employment letter.,hr
+TCK-100211,"urgent, I am having trouble with the cancelled order.",billing
+TCK-100236,Could you check my recent purchase; it has an additional fee.,billing
+TCK-100102,I have a question about invoice.,billing
+TCK-100987,Can you tell me about plans related to your services Please advise.,general
+TCK-100903,I would like to know about your website; it can you explain this.,general
+TCK-100948,"urgent, Can you help? Your products I would like more information. thx",general
+TCK-100347,my api returns a 500 error.,technical
+TCK-100140,"hi team, I need assistance with tax related to the cancelled order for my account.",billing
+TCK-100622,My emergency contact requires HR assistance.,hr
+TCK-100500,My notification freezes after login.,technical
+TCK-100371,Can someone fix my account; it crashes unexpectedly.,technical
+TCK-100199,"ASAP, I have an issue with my recent purchase; it has not been refunded.",billing
+TCK-100688,"urgent, I have a question about employment verification.",hr
+TCK-100585,My employment verification is showing an incorrect value.,hr
+TCK-100902,I would like to know about product information related to the product catalog please.,general
+TCK-100060,I need help regarding duplicate charge related to my recent purchase — please advise.,billing
+TCK-100329,Can you help? The mobile app returns a 500 error.,technical
+TCK-100097,The billing was declined.,billing
+TCK-100313,"hello support, I am having trouble with the login page.",technical
+TCK-100975,Can you tell me about products.,general
+TCK-100300,Can someone fix verification code. help needed,technical
+TCK-100278,"please, I have a question about verification code.",technical
+TCK-100925,"thanks, I need more details about mobile application.",general
+TCK-100602,Please help me with my benefits; it needs clarification.,hr
+TCK-100440,the verification code shows a blank screen.,technical
+TCK-100838,I have a question about services.,general
+TCK-100571,Please help me with employment verification.,hr
+TCK-100880,My service information can someone help me understand this,general
+TCK-100262,"hi team, My mobile app rejects my credentials",technical
+TCK-100579,My HR policy has not been processed.,hr
+TCK-100024,Can someone investigate receipt.,billing
+TCK-100031,I need help regarding payment related to my subscription I need assistance.,billing
+TCK-100618,Can you help? My hr request needs clarification.,hr
+TCK-100011,I have an issue with my order; it has an additional fee.,billing
+TCK-100222,The transaction has the wrong tax amount.,billing
+TCK-100821,Can you help? The mobile application can you explain this.,general
+TCK-100297,I have a question about notification.,technical
+TCK-100055,Please look into my account; it was charged incorrectly.,billing
+TCK-100543,I have an employee query about employment letter related to my payslip I would appreciate your help.,hr
+TCK-100210,I have a question about failed payment.,billing
+TCK-100605,Can you help? My benefits needs clarification.,hr
+TCK-100693,I am having trouble with my attendance record.,hr
+TCK-100663,The payslip needs to be updated.,hr
+TCK-100867,"hi team, i would like to know about company related to the product catalog i would appreciate your help.",general
+TCK-100071,My credit was charged incorrectly.,billing
+TCK-100544,"hi team, Please help me with payslip related to my HR request Can you help? pls",hr
+TCK-100108,I am having trouble with my card,billing
+TCK-100494,I am having trouble with the API request,technical
+TCK-100591,I need clarification about my leave balance; it requires HR assistance. thanks,hr
+TCK-100742,I need HR assistance with my attendance record; it needs to be submitted.,hr
+TCK-100293,My integration is not loading.,technical
+TCK-100290,"urgent, The integration keeps failing.",technical
+TCK-100653,"need help, i need clarification about my benefits; it is not visible in the portal.",hr
+TCK-100040,"hello support, Can you help? The monthly plan was charged twice.",billing
+TCK-100590,"urgent, My payslip needs to be submitted. thx",hr
+TCK-100308,Could you investigate dashboard.,technical
+TCK-100680,"please, I need HR assistance with bank details.",hr
+TCK-100067,Please look into receipt. thanks,billing
+TCK-100276,I am having trouble with the mobile app.,technical
+TCK-100068,My credit was declined.,billing
+TCK-100319,I need technical help with the mobile app; it does not respond.,technical
+TCK-100549,Can you help? My leave balance is showing an incorrect value.,hr
+TCK-100999,Where can I find information about the documentation; it can you explain this,general
+TCK-100715,Can you help? My employee profile needs clarification.,hr
+TCK-100754,I have a question about company related to the product catalog Can you help?,general
+TCK-100328,I need support for my account; it returns a 500 error.,technical
+TCK-100383,There is a problem with the application; it freezes after login.,technical
+TCK-100452,My account access freezes after login.,technical
+TCK-100523,The HR policy has not been received.,hr
+TCK-100219,"please, Can you help? The cancelled order has not been refunded. thx",billing
+TCK-100788,Please explain your products; it how does this work.,general
+TCK-100437,can you help? the upload feature does not respond.,technical
+TCK-100765,"please, I have a question about FAQ.",general
+TCK-100089,I am having trouble with my order.,billing
+TCK-100064,Please help me with credit related to my card I need assistance.,billing
+TCK-100827,"thanks, The support I would like more information.",general
+TCK-100717,Please help me with parental leave related to my employee record,hr
+TCK-100352,I have a question about website.,technical
+TCK-100937,Can you help? The documentation where can I get more details.,general
+TCK-100257,The login crashes unexpectedly,technical
+TCK-100636,please help me with employee portal.,hr
+TCK-100645,The leave is showing an incorrect value.,hr
+TCK-100555,My employment verification needs clarification.,hr
+TCK-100960,"urgent, I have a question about plans.",general
+TCK-100169,My fee was charged twice.,billing
+TCK-100918,I need more details about your services; it how does this work.,general
+TCK-100529,Can you help? My employment details needs clarification.,hr
+TCK-100824,I would like to know about business hours related to the available plans Can you help?,general
+TCK-100986,Where can I find information about products.,general
+TCK-100817,i need more details about products.,general
+TCK-100087,The subscription has not generated a receipt. thx,billing
+TCK-100433,There is a problem with verification code related to the website I would appreciate your help. pls,technical
+TCK-100185,The transaction was charged incorrectly.,billing
+TCK-100979,"hello support, I would like to know about product information related to the available plans I need assistance.",general
+TCK-100535,I need HR assistance with my employment details; it has not been processed.,hr
+TCK-100295,My verification code returns a 500 error.,technical
+TCK-100893,The mobile application where can I find this.,general
+TCK-100426,Could you investigate the dashboard; it stopped working after the update.,technical
+TCK-100714,I have a question about HR policy.,hr
+TCK-100261,there is a problem with notification related to the login page and let me know what i should do,technical
+TCK-100238,I have an issue with my order; it was processed twice.,billing
+TCK-100560,Please look into parental leave.,hr
+TCK-100584,I need clarification about HR policy.,hr
+TCK-100446,I have a question about mobile app.,technical
+TCK-100868,"please, My features is this available.",general
+TCK-100801,I am having trouble with the user guide.,general
+TCK-100600,I have a question about employee benefits.,hr
+TCK-100850,Could you provide information about user guide.,general
+TCK-100266,I am facing an issue with file upload.,technical
+TCK-100996,My products what options are available.,general
+TCK-100530,I am having trouble with my employee record.,hr
+TCK-100056,can someone investigate fee related to my account — please advise.,billing
+TCK-100121,"need help, Could you check my card; it has an additional fee.",billing
+TCK-100216,The duplicate charge has the wrong tax amount.,billing
+TCK-100026,"ASAP, Can you help? My card was charged incorrectly.",billing
+TCK-100073,I have a question about charge.,billing
+TCK-100045,"hello support, I have a question about failed payment.",billing
+TCK-100248,i need help regarding my card; it was charged incorrectly.,billing
+TCK-100722,Can you help? My employee record needs clarification.,hr
+TCK-100282,The server freezes after login.,technical
+TCK-100894,"hi team, Please explain FAQ related to the mobile application for my account.",general
+TCK-100915,I have a question about your company; it is this available.,general
+TCK-100811,"urgent, The company can you explain this. pls",general
+TCK-100245,Please help me with renewal.,billing
+TCK-100823,Could you provide information about FAQ.,general
+TCK-100322,Please look into website. help needed,technical
+TCK-100644,I am contacting HR regarding salary.,hr
+TCK-100159,I am contacting support about refund related to the monthly plan please.,billing
+TCK-100978,The user guide what options are available.,general
+TCK-100430,The dashboard stopped working after the update. thx,technical
+TCK-100942,"hi team, I would like to know about products related to the documentation please. pls",general
+TCK-100463,I have a question about verification code.,technical
+TCK-100310,"hi team, My file upload keeps failing.",technical
+TCK-100698,i am contacting hr regarding personal details related to my leave balance please thanks,hr
+TCK-100061,Please help me with the cancelled order; it was processed twice.,billing
+TCK-100885,"hi team, The documentation where can I get more details.",general
+TCK-100596,The emergency contact needs clarification.,hr
+TCK-100768,I have a question about available options.,general
+TCK-100650,"hi team, The employee benefits needs clarification.",hr
+TCK-100651,I have a question about parental leave,hr
+TCK-100866,i am having trouble with the documentation.,general
+TCK-100669,"please, The emergency contact needs to be corrected.",hr
+TCK-100299,I am facing an issue with website.,technical
+TCK-100690,I have a question about attendance.,hr
+TCK-100315,My password reset rejects my credentials.,technical
+TCK-100311,I am having trouble with my account,technical
+TCK-100362,Can someone fix login related to the API request please.,technical
+TCK-100480,"hello support, Could you investigate account access related to the login page please.",technical
+TCK-100111,"hello support, I am contacting support about my subscription; it has the wrong tax amount.",billing
+TCK-100990,i am having trouble with the mobile application.,general
+TCK-100487,The website keeps failing,technical
+TCK-100364,Could you investigate file upload related to the login page Can you help?,technical
+TCK-100255,My dashboard crashes unexpectedly,technical
+TCK-100260,There is a problem with the application; it returns a 500 error.,technical
+TCK-100803,Where can I find information about documentation.,general
+TCK-100678,"kindly check, I need HR assistance with attendance related to my attendance record — please advise.",hr
+TCK-100495,Can you help? The mobile app is not loading.,technical
+TCK-100671,I am contacting HR regarding emergency contact related to my employment details,hr
+TCK-100378,Can you help? The integration crashes unexpectedly.,technical
+TCK-100527,I am having trouble with my leave balance.,hr
+TCK-100846,i am having trouble with the user guide.,general
+TCK-100138,I have a question about tax.,billing
+TCK-100356,Can you help? The integration freezes after login.,technical
+TCK-100366,my file upload does not respond.,technical
+TCK-100943,"need help, I have a question about the user guide; it can someone help me understand this.",general
+TCK-100750,I am contacting HR regarding employee benefits related to my attendance record please.,hr
+TCK-100949,I would like to know about your company; it is this available.,general
+TCK-100830,Can you help? Your company where can I get more details.,general
+TCK-100657,The salary statement has not been processed.,hr
+TCK-100200,I am contacting support about duplicate charge related to the cancelled order Can you help?,billing
+TCK-100214,I need help regarding renewal related to my account for my account.,billing
+TCK-100409,i am having trouble with the server.,technical
+TCK-100333,I am facing an issue with the integration; it rejects my credentials.,technical
+TCK-100209,can someone investigate the payment; it has an additional fee.,billing
+TCK-100614,"thanks, I have a question about parental leave.",hr
+TCK-100079,I have an issue with the cancelled order; it is showing an unexpected amount.,billing
+TCK-100030,Can you help? My account has an additional fee.,billing
+TCK-100536,I need HR assistance with employment verification.,hr
+TCK-100696,i need hr assistance with my hr request; it needs to be corrected.,hr
+TCK-100558,"thanks, Could you check my leave balance; it needs to be updated.",hr
+TCK-100837,I have a question about support.,general
+TCK-100597,I am contacting HR regarding my payslip; it needs to be submitted,hr
+TCK-100166,I have a question about card payment,billing
+TCK-100919,I have a question about FAQ.,general
+TCK-100496,There is a problem with checkout page.,technical
+TCK-100825,"thanks, I have a question about service information.",general
+TCK-100066,"hi team, Can you help? My subscription was declined.",billing
+TCK-100142,My refund has the wrong tax amount.,billing
+TCK-100926,My service information where can I get more details.,general
+TCK-100828,Can you tell me about the user guide; it can you explain this.,general
+TCK-100656,I am contacting HR regarding personal details,hr
+TCK-100332,I need support for the dashboard; it crashes unexpectedly. pls,technical
+TCK-100665,"ASAP, The payslip requires HR assistance.",hr
+TCK-100250,The charge was charged twice,billing
+TCK-100908,Can you help? The product catalog can you explain this.,general
+TCK-100709,I need clarification about my salary account; it requires HR assistance.,hr
+TCK-100306,Can you help? The integration does not respond.,technical
+TCK-100735,"thanks, My employment letter needs to be submitted",hr
+TCK-100976,Where can I find information about the user guide; it can you provide more information.,general
+TCK-100897,"ASAP, Could you provide information about FAQ.",general
+TCK-100003,My subscription has not generated a receipt.,billing
+TCK-100545,My attendance needs to be updated.,hr
+TCK-100351,"asap, the authentication returns a 500 error. thanks",technical
+TCK-100905,I am having trouble with your company.,general
+TCK-100537,can hr help with benefits enrollment.,hr
+TCK-100345,I need technical help with account access related to the integration I need assistance,technical
+TCK-100995,Could you help me understand the product catalog; it can someone help me understand this.,general
+TCK-100482,"hello support, Can someone fix the mobile app; it does not respond. thanks",technical
+TCK-100576,I have a question about employment letter.,hr
+TCK-100034,"please, I have a question about invoice.",billing
+TCK-100032,Can you help? My card is showing an unexpected amount.,billing
+TCK-100232,I am having trouble with the cancelled order. pls,billing
+TCK-100964,Can you help? Your company can you explain this.,general
+TCK-100193,The card payment has not been refunded.,billing
+TCK-100334,i have a question about integration.,technical
+TCK-100004,Please look into transaction.,billing
+TCK-100205,I am having trouble with my card.,billing
+TCK-100515,"hi team, Can you help? My payslip has not been received.",hr
+TCK-100800,Could you provide information about your company; it is this available.,general
+TCK-100307,"need help, My authentication returns a 500 error.",technical
+TCK-100110,I have a question about renewal.,billing
+TCK-100431,I am having trouble with the API request.,technical
+TCK-100078,"hello support, I am having trouble with my invoice.",billing
+TCK-100085,Could you check renewal.,billing
+TCK-100287,Could you investigate notification.,technical
+TCK-100083,"hi team, Please help me with failed payment related to my subscription and let me know what I should do.",billing
+TCK-100992,Please explain service information related to the support service as soon as possible.,general
+TCK-100790,Could you help me understand service information related to your products for my account.,general
+TCK-100895,"kindly check, I am having trouble with the support service.",general
+TCK-100399,I have a question about application.,technical
+TCK-100324,I need technical help with the website; it is not loading.,technical
+TCK-100520,I have an employee query about attendance.,hr
+TCK-100917,My mobile application can you provide more information,general
+TCK-100923,"kindly check, Can you help? Your website I would like more information.",general
+TCK-100006,Please help me with transaction.,billing
+TCK-100732,I have an employee query about my salary account; it has not been processed.,hr
+TCK-100466,I am facing an issue with the mobile app; it stopped working after the update. pls,technical
+TCK-100098,I am having trouble with the monthly plan,billing
+TCK-100267,My file upload is not loading.,technical
+TCK-100358,I need support for my account; it crashes unexpectedly.,technical
+TCK-100869,Please explain plans.,general
+TCK-100799,i would like to know about products.,general
+TCK-100381,"please, I have a question about integration.",technical
+TCK-100632,My benefits enrollment has not been received.,hr
+TCK-100382,There is a problem with API related to the login page please.,technical
+TCK-100491,"thanks, i am facing an issue with checkout page related to the login page please.",technical
+TCK-100119,the payment has not generated a receipt.,billing
+TCK-100901,can you tell me about documentation related to your website please.,general
+TCK-100251,"urgent, The password reset is not loading.",technical
+TCK-100524,Can HR help with my salary account; it requires HR assistance.,hr
+TCK-100010,Can you help? My invoice is showing an unexpected amount.,billing
+TCK-100197,Can you help? The payment was processed twice,billing
+TCK-100604,Can you help? My payslip is not visible in the portal,hr
+TCK-100082,"ASAP, I need help regarding the transaction; it is showing an unexpected amount.",billing
+TCK-100784,"thanks, I need more details about the user guide; it what options are available.",general
+TCK-100588,I have an employee query about salary.,hr
+TCK-100798,I have a question about features.,general
+TCK-100240,"thanks, I have a question about duplicate charge.",billing
+TCK-100291,I need technical help with application.,technical
+TCK-100212,"hi team, I need help regarding card payment related to my card I would appreciate your help.",billing
+TCK-100718,I am contacting HR regarding my payslip; it is showing an incorrect value,hr
+TCK-100360,can you help? the api request stopped working after the update.,technical
+TCK-100450,Can someone fix integration,technical
+TCK-100228,"kindly check, I am contacting support about refund related to my subscription please",billing
+TCK-100951,Please explain your company; it how does this work.,general
+TCK-100947,My service information can someone help me understand this.,general
+TCK-100797,Could you provide information about services.,general
+TCK-100502,"please, My parental leave is showing an incorrect value.",hr
+TCK-100465,Can you help? The website returns a 500 error.,technical
+TCK-100363,I have a question about application. pls,technical
+TCK-100469,Please troubleshoot my account; it shows a blank screen.,technical
+TCK-100936,I have a question about mobile application.,general
+TCK-100429,can you help? the application is not loading.,technical
+TCK-100008,Can you help? My order was processed twice.,billing
+TCK-100156,I am having trouble with my account.,billing
+TCK-100542,Can you help? My personal information is not visible in the portal.,hr
+TCK-100441,"thanks, i need support for the upload feature; it times out",technical
+TCK-100483,My application freezes after login. pls,technical
+TCK-100423,can you help? the application stopped working after the update.,technical
+TCK-100779,My business hours is this available.,general
+TCK-100950,I would like to know about FAQ.,general
+TCK-100335,please look into server related to the mobile app i need assistance.,technical
+TCK-100577,My personal details needs approval.,hr
+TCK-100935,Can you help? The user guide how does this work.,general
+TCK-100568,can you help? my salary account needs to be updated.,hr
+TCK-100595,I need clarification about HR policy related to my employee profile for my account.,hr
+TCK-100531,I need clarification about salary.,hr
+TCK-100582,Please help me with parental leave related to my employee record I need assistance.,hr
+TCK-100708,"kindly check, I need clarification about personal details related to my salary account Please advise.",hr
+TCK-100449,My API is not loading.,technical
+TCK-100454,Can you help? The application returns a 500 error.,technical
+TCK-100229,"thanks, Please look into billing.",billing
+TCK-100353,I am having trouble with the server.,technical
+TCK-100729,Can you help? My employee profile is showing an incorrect value,hr
+TCK-100213,Can you help? The cancelled order was charged twice.,billing
+TCK-100080,My billing has not been refunded.,billing
+TCK-100149,The refund was charged after cancellation. help needed,billing
+TCK-100303,The notification does not respond.,technical
+TCK-100629,I have an employee query about my employment details; it is showing an incorrect value.,hr
+TCK-100778,I have a question about business hours.,general
+TCK-100507,Can HR help with my personal information; it requires HR assistance.,hr
+TCK-100343,"thanks, My file upload rejects my credentials.",technical
+TCK-100486,I have a question about dashboard.,technical
+TCK-100712,Could you check my personal information; it needs to be corrected.,hr
+TCK-100134,My charge was charged incorrectly.,billing
+TCK-100704,The salary statement is not visible in the portal,hr
+TCK-100312,My API shows a blank screen.,technical
+TCK-100723,Can you help? My leave balance needs clarification.,hr
+TCK-100630,I need HR assistance with salary statement related to my salary account and let me know what I should do.,hr
+TCK-100001,can someone investigate failed payment related to my order i would appreciate your help.,billing
+TCK-100317,Can someone fix account access.,technical
+TCK-100707,I am having trouble with my payslip.,hr
+TCK-100548,I am contacting HR regarding employee portal.,hr
+TCK-100873,I would like to know about mobile application.,general
+TCK-100533,"thanks, The employee benefits is showing an incorrect value.",hr
+TCK-100478,"need help, I am having trouble with the server.",technical
+TCK-100405,"need help, i have a question about password reset",technical
+TCK-100173,Could you check my recent purchase; it was charged after cancellation.,billing
+TCK-100126,My refund was charged incorrectly.,billing
+TCK-100395,my integration returns a 500 error.,technical
+TCK-100421,I am having trouble with the upload feature,technical
+TCK-100553,I have a question about employment verification.,hr
+TCK-100904,i am having trouble with your services.,general
+TCK-100091,Can someone investigate my order; it is showing an unexpected amount.,billing
+TCK-100940,Could you provide information about service information. pls,general
+TCK-100182,I need help regarding billing related to my card please. pls,billing
+TCK-100275,Could you investigate authentication.,technical
+TCK-100896,"need help, Where can I find information about the product catalog; it can you tell me more",general
+TCK-100070,Can you help? My recent purchase has not been refunded.,billing
+TCK-100292,The checkout page crashes unexpectedly.,technical
+TCK-100132,The duplicate charge has not generated a receipt.,billing
+TCK-100301,I need technical help with authentication related to the upload feature I would appreciate your help,technical
+TCK-100425,"hi team, I have a question about dashboard.",technical
+TCK-100327,I need technical help with authentication related to the server as soon as possible.,technical
+TCK-100145,I have an issue with credit related to my subscription Please advise.,billing
+TCK-100424,I need technical help with the integration; it keeps failing.,technical
+TCK-100581,"please, The emergency contact requires HR assistance.",hr
+TCK-100136,Please help me with card payment related to my recent purchase,billing
+TCK-100451,The notification rejects my credentials.,technical
+TCK-100165,"please, Could you check credit related to the monthly plan please thanks",billing
+TCK-100029,Can someone investigate my invoice; it has the wrong tax amount.,billing
+TCK-100774,Where can I find information about your website; it is this available.,general
+TCK-100194,"thanks, I need help regarding credit related to my card Can you help?",billing
+TCK-100389,I need technical help with mobile app.,technical
+TCK-100853,could you help me understand services related to the documentation for my account.,general
+TCK-100170,I have an issue with transaction.,billing
+TCK-100706,"ASAP, I am having trouble with my personal information",hr
+TCK-100141,I am having trouble with the monthly plan.,billing
+TCK-100174,"hi team, Could you check subscription related to my order Can you help?",billing
+TCK-100007,Could you check charge.,billing
+TCK-100746,Can HR help with HR policy.,hr
+TCK-100479,Please troubleshoot API related to my account as soon as possible.,technical
+TCK-100074,I have an issue with the cancelled order; it has not been refunded.,billing
+TCK-100911,I would like to know about your website; it where can I find this.,general
+TCK-100814,My services where can I find this.,general
+TCK-100239,"ASAP, The fee was charged twice.",billing
+TCK-100146,Can you help? My account was charged twice.,billing
+TCK-100793,Can you help? The mobile application can you provide more information.,general
+TCK-100235,Can you help? My recent purchase has an additional fee.,billing
+TCK-100221,The failed payment was declined.,billing
+TCK-100924,i need more details about your services; it what options are available.,general
+TCK-100501,Can HR help with salary related to my payslip and let me know what I should do,hr
+TCK-100133,Can you help? My invoice has the wrong tax amount.,billing
+TCK-100991,Can you help? The available plans where can I get more details.,general
+TCK-100775,I am having trouble with your products. pls,general
+TCK-100186,"need help, The credit was charged twice.",billing
+TCK-100042,I need help regarding card payment related to the cancelled order as soon as possible.,billing
+TCK-100697,Please help me with employment letter.,hr
+TCK-100109,Can you help? The cancelled order has not generated a receipt.,billing
+TCK-100589,Can you help? My leave balance has not been processed.,hr
+TCK-100057,"ASAP, Can you help? The transaction was charged after cancellation.",billing
+TCK-100443,Please troubleshoot mobile app.,technical
+TCK-100758,Can you help? Your products can you provide more information. help needed,general
+TCK-100998,The business hours can you tell me more.,general
+TCK-100025,"please, The renewal has not generated a receipt.",billing
+TCK-100468,"kindly check, I need technical help with the login page; it is not loading",technical
+TCK-100540,Please look into salary related to my personal information I would appreciate your help.,hr
+TCK-100532,"hi team, My employment verification needs clarification.",hr
+TCK-100619,I have a question about emergency contact.,hr
+TCK-100695,"kindly check, I have a question about benefits enrollment. thx",hr
+TCK-100927,Where can I find information about the product catalog; it what options are available,general
+TCK-100339,i am facing an issue with website related to my account and let me know what i should do.,technical
+TCK-100052,I have an issue with refund related to the monthly plan Can you help?,billing
+TCK-100508,The benefits enrollment needs approval.,hr
+TCK-100517,Please look into my employment details; it needs to be updated.,hr
+TCK-100921,My service information where can I find this.,general
+TCK-100782,I am having trouble with your services.,general
+TCK-100265,"need help, The application shows a blank screen",technical
+TCK-100818,"kindly check, please explain your products; it i would like more information.",general
+TCK-100711,The payslip has not been processed.,hr
+TCK-100683,The bank details needs clarification.,hr
+TCK-100833,My plans where can I get more details,general
+TCK-100519,The personal details needs to be updated.,hr
+TCK-100448,I have a question about password reset.,technical
+TCK-100019,Please help me with billing related to my account Please advise.,billing
+TCK-100716,Please help me with payslip related to my benefits please.,hr
+TCK-100484,The login stopped working after the update.,technical
+TCK-100569,"thanks, Can you help? My payslip is not visible in the portal.",hr
+TCK-100434,Please troubleshoot the login page; it stopped working after the update.,technical
+TCK-100368,My website rejects my credentials.,technical
+TCK-100084,"ASAP, I am having trouble with the transaction",billing
+TCK-100062,The duplicate charge was charged after cancellation,billing
+TCK-100639,Can you help? My attendance record needs approval.,hr
+TCK-100273,Can you help? The dashboard does not respond thx,technical
+TCK-100286,"please, Please look into password reset related to the mobile app please.",technical
+TCK-100361,Could you investigate account access.,technical
+TCK-100355,Can you help? The website is not loading.,technical
+TCK-100457,My notification crashes unexpectedly.,technical
+TCK-100279,There is a problem with dashboard.,technical
+TCK-100013,"urgent, My failed payment is showing an unexpected amount.",billing
+TCK-100183,I have a question about transaction.,billing
+TCK-100369,Could you investigate API related to the dashboard I would appreciate your help.,technical
+TCK-100882,I need more details about mobile application related to the mobile application and let me know what I should do.,general
+TCK-100616,My salary statement needs to be corrected.,hr
+TCK-100224,I need assistance with charge.,billing
+TCK-100573,I am contacting HR regarding employee benefits.,hr
+TCK-100971,The company can you explain this.,general
+TCK-100654,I am contacting HR regarding my personal information; it is showing an incorrect value.,hr
+TCK-100546,"please, Can you help? My employment details needs approval.",hr
+TCK-100583,My employee portal needs to be corrected.,hr
+TCK-100634,I have a question about bank details.,hr
+TCK-100177,Could you check the payment; it is showing an unexpected amount.,billing
+TCK-100666,I need clarification about my attendance record; it is not visible in the portal.,hr
+TCK-100674,"please, The employment verification has not been processed.",hr
+TCK-100586,The payslip needs to be submitted.,hr
+TCK-100874,Can you help? Your products where can I get more details.,general
+TCK-100394,My server times out.,technical
+TCK-100164,My fee was declined.,billing
+TCK-100249,the credit was charged incorrectly.,billing
+TCK-100635,Could you check my personal information; it needs to be updated. thx,hr
+TCK-100886,I am having trouble with the available plans. thx,general
+TCK-100670,The employee portal needs to be submitted.,hr
+TCK-100376,My password reset keeps failing.,technical
+TCK-100413,I have a question about account access thanks,technical
+TCK-100075,I need help regarding refund.,billing
+TCK-100114,Could you check fee,billing
+TCK-100599,Can you help? My employment details needs to be corrected.,hr
+TCK-100962,My plans how does this work.,general
+TCK-100391,I am having trouble with the upload feature.,technical
+TCK-100105,I am contacting support about failed payment related to the monthly plan please.,billing
+TCK-100115,"thanks, Can you help? My account has an additional fee.",billing
+TCK-100418,Could you investigate the application; it is not loading.,technical
+TCK-100526,My salary statement needs to be updated.,hr
+TCK-100458,"ASAP, I have a question about notification.",technical
+TCK-100410,The server shows a blank screen.,technical
+TCK-100093,Can someone investigate the transaction; it has an additional fee.,billing
+TCK-100931,My features what options are available.,general
+TCK-100090,"please, can you help? my subscription was charged incorrectly.",billing
+TCK-100337,I have a question about file upload. pls,technical
+TCK-100989,Can you tell me about support related to the mobile application I need assistance.,general
+TCK-100922,Could you help me understand user guide related to your services as soon as possible.,general
+TCK-100934,Can you help? The documentation can you tell me more.,general
+TCK-100606,I have a question about payslip.,hr
+TCK-100594,Can you help? My employee record needs to be submitted.,hr
+TCK-100612,"ASAP, My benefits enrollment is showing an incorrect value.",hr
+TCK-100095,Can you help? The monthly plan has not generated a receipt.,billing
+TCK-100012,can someone investigate my subscription; it was charged after cancellation,billing
+TCK-100397,There is a problem with verification code.,technical
+TCK-100534,Can HR help with my employment details; it needs to be corrected,hr
+TCK-100044,Can someone investigate my recent purchase; it has not generated a receipt.,billing
+TCK-100043,The refund was declined.,billing
+TCK-100330,My file upload returns a 500 error.,technical
+TCK-100168,"urgent, the tax was charged twice.",billing
+TCK-100498,i need technical help with dashboard.,technical
+TCK-100877,Can you help? Your website is this available.,general
+TCK-100598,I have a question about employment letter,hr
+TCK-100757,i need more details about products related to your company and let me know what i should do.,general
+TCK-100101,I am having trouble with my recent purchase.,billing
+TCK-100427,Could you investigate the application; it crashes unexpectedly.,technical
+TCK-100179,I have a question about credit.,billing
+TCK-100445,Could you investigate mobile app. thanks,technical
+TCK-100417,My verification code is not loading,technical
+TCK-100871,I have a question about products.,general
+TCK-100883,My contact information can you provide more information.,general
+TCK-100681,My attendance needs to be submitted. thanks,hr
+TCK-100178,I am contacting support about the monthly plan; it is showing an unexpected amount.,billing
+TCK-100396,The integration times out.,technical
+TCK-100912,I would like to know about product information.,general
+TCK-100794,Could you provide information about service information related to your website Please advise.,general
+TCK-100961,My product information I would like more information.,general
+TCK-100685,Please look into payslip.,hr
+TCK-100384,My checkout page stopped working after the update.,technical
+TCK-100957,Could you provide information about product information.,general
+TCK-100752,Can you help? The product catalog is this available.,general
+TCK-100258,My website freezes after login.,technical
+TCK-100539,I need HR assistance with bank details.,hr
+TCK-100336,My application stopped working after the update.,technical
+TCK-100016,I am having trouble with the transaction.,billing
+TCK-100325,I have a question about checkout page.,technical
+TCK-100759,Can you help? The available plans what options are available. help needed,general
+TCK-100223,I am contacting support about fee.,billing
+TCK-100180,I have a question about card payment.,billing
+TCK-100984,I have a question about plans.,general
+TCK-100023,"need help, Can you help? My card was charged incorrectly.",billing
+TCK-100357,"please, There is a problem with authentication related to the integration — please advise",technical
+TCK-100667,I have a question about emergency contact. pls,hr
+TCK-100862,"thanks, My mobile application can you explain this.",general
+TCK-100341,the api freezes after login.,technical
+TCK-100432,"urgent, I have a question about dashboard.",technical
+TCK-100552,Please look into my personal information; it has not been received.,hr
+TCK-100834,I am having trouble with the mobile application.,general
+TCK-100204,Can you help? The payment was processed twice.,billing
+TCK-100631,"urgent, I need clarification about leave related to my HR request and let me know what I should do",hr
+TCK-100094,My credit has not been refunded.,billing
+TCK-100559,The salary has not been processed,hr
+TCK-100069,Please look into tax.,billing
+TCK-100623,The parental leave needs to be submitted.,hr
+TCK-100285,"urgent, I am having trouble with the API request.",technical
+TCK-100845,where can i find information about service information related to your products — please advise.,general
+TCK-100435,my server keeps failing.,technical
+TCK-100154,My credit was processed twice.,billing
+TCK-100076,My refund has not been refunded.,billing
+TCK-100731,"thanks, The emergency contact is not visible in the portal",hr
+TCK-100447,"ASAP, Can you help? The mobile app returns a 500 error. help needed",technical
+TCK-100189,My invoice was charged twice.,billing
+TCK-100272,i am having trouble with the login page.,technical
+TCK-100237,I am contacting support about tax related to my invoice Can you help?,billing
+TCK-100488,"hello support, I need technical help with server related to the application and let me know what I should do.",technical
+TCK-100118,I have a question about receipt.,billing
+TCK-100944,"hello support, I am having trouble with the user guide.",general
+TCK-100513,I need clarification about benefits enrollment related to my HR request and let me know what I should do.,hr
+TCK-100826,I would like to know about your website; it what options are available.,general
+TCK-100592,My salary has not been received.,hr
+TCK-100127,Can you help? My card has the wrong tax amount.,billing
+TCK-100117,"need help, I have a question about charge.",billing
+TCK-100474,Can you help? The upload feature shows a blank screen.,technical
+TCK-100694,I need clarification about personal details.,hr
+TCK-100058,The fee has not generated a receipt.,billing
+TCK-100864,I have a question about plans. thx,general
+TCK-100913,I have a question about company.,general
+TCK-100370,Can you help? The api request is not loading.,technical
+TCK-100269,can you help? the api request times out.,technical
+TCK-100047,"please, i am contacting support about credit related to my recent purchase i would appreciate your help",billing
+TCK-100350,I have a question about integration.,technical
+TCK-100196,Can someone investigate subscription related to my order I need assistance.,billing
+TCK-101000,Please explain products related to your products and let me know what I should do.,general
+TCK-100835,"hi team, Can you tell me about product information related to the mobile application as soon as possible.",general
+TCK-100737,Can you help? My employee record requires HR assistance.,hr
+TCK-100264,I need support for the dashboard; it shows a blank screen.,technical
+TCK-100444,I need support for API.,technical
+TCK-100676,My parental leave has not been received.,hr
+TCK-100305,Can someone fix website related to the application as soon as possible.,technical
+TCK-100342,The login keeps failing.,technical
+TCK-100967,I am having trouble with the documentation.,general
+TCK-100150,"hi team, I have a question about renewal.",billing
+TCK-100125,Can you help? The cancelled order has the wrong tax amount.,billing
+TCK-100787,Can you help? Your services where can I get more details.,general
+TCK-100051,"thanks, Can someone investigate the monthly plan; it was charged incorrectly.",billing
+TCK-100354,Please troubleshoot the server; it stopped working after the update.,technical
+TCK-100928,"ASAP, My contact information how does this work.",general
+TCK-100143,"thanks, Can you help? My card has the wrong tax amount.",billing
+TCK-100471,The file upload returns a 500 error.,technical
+TCK-100400,My authentication crashes unexpectedly.,technical
+TCK-100626,I am having trouble with my employee profile. thanks,hr
+TCK-100321,"kindly check, Please troubleshoot dashboard related to the login page please.",technical
+TCK-100020,My billing was processed twice.,billing
+TCK-100810,I would like to know about services related to the support service — please advise.,general
+TCK-100791,"urgent, My business hours how does this work.",general
+TCK-100809,"urgent, I have a question about available options.",general
+TCK-100408,I need support for the mobile app; it is not loading.,technical
+TCK-100538,the salary has not been received. pls,hr
+TCK-100621,I need HR assistance with salary.,hr
+TCK-100039,The invoice was processed twice.,billing
+TCK-100176,The transaction was charged twice.,billing
+TCK-100246,I am having trouble with my subscription.,billing
+TCK-100829,The user guide where can I find this.,general
+TCK-100668,I am having trouble with my personal information. thanks,hr
+TCK-100755,"need help, Please explain contact information.",general
+TCK-100859,Could you provide information about your company; it can you tell me more.,general
+TCK-100155,I need assistance with the monthly plan; it was charged after cancellation.,billing
+TCK-100288,i have a question about website.,technical
+TCK-100603,Can HR help with salary statement related to my personal information,hr
+TCK-100570,Can you help? My hr request has not been received.,hr
+TCK-100744,"urgent, Please help me with my employee profile; it is not visible in the portal. thanks",hr
+TCK-100018,I have an issue with fee related to my subscription I would appreciate your help.,billing
+TCK-100128,i have a question about invoice.,billing
+TCK-100323,Please troubleshoot file upload.,technical
+TCK-100256,The API does not respond.,technical
+TCK-100658,I have a question about personal details thx,hr
+TCK-100965,The services can you explain this,general
+TCK-100191,"hello support, I have an issue with duplicate charge related to the payment and let me know what I should do.",billing
+TCK-100116,My payment has not been refunded,billing
+TCK-100617,Could you check employment verification related to my employment details as soon as possible.,hr
+TCK-100607,I am contacting HR regarding salary,hr
+TCK-100181,Please look into subscription. help needed,billing
+TCK-100302,There is a problem with dashboard related to the server — please advise,technical
+TCK-100760,Can you help? Your products can someone help me understand this.,general
+TCK-100713,Can you help? My salary account has not been received.,hr
+TCK-100724,Can you help? My personal information has not been processed.,hr
+TCK-100686,"ASAP, Could you check my attendance record; it needs clarification.",hr
+TCK-100980,Can you help? The available plans what options are available.,general
+TCK-100518,Could you check employee benefits.,hr
+TCK-100985,I need more details about business hours. help needed,general
+TCK-100046,I need help regarding billing related to the monthly plan for my account.,billing
+TCK-100910,"kindly check, I am having trouble with your company",general
+TCK-100158,I have a question about subscription.,billing
+TCK-100852,I need more details about the mobile application; it can you tell me more.,general
+TCK-100172,I need help regarding card payment.,billing
+TCK-100017,The transaction has not been refunded.,billing
+TCK-100512,My HR policy needs to be updated.,hr
+TCK-100049,Can someone investigate my recent purchase; it was processed twice.,billing
+TCK-100972,Can you help? Your services can you tell me more.,general
+TCK-100941,The services what options are available.,general
+TCK-100516,I have a question about salary statement.,hr
+TCK-100953,My FAQ can you provide more information.,general
+TCK-100481,I have a question about application,technical
+TCK-100284,I need technical help with file upload related to the login page I need assistance,technical
+TCK-100719,My personal details has not been processed.,hr
+TCK-100878,My FAQ can you tell me more.,general
+TCK-100226,Can you help? The payment was declined.,billing
+TCK-100027,"urgent, Can someone investigate receipt related to my recent purchase please.",billing
+TCK-100955,Could you provide information about company related to the user guide as soon as possible.,general
+TCK-100438,"thanks, the verification code rejects my credentials.",technical
+TCK-100952,"urgent, The business hours how does this work.",general
+TCK-100365,Can you help? The mobile app rejects my credentials.,technical
+TCK-100230,Please help me with my card; it has an additional fee.,billing
+TCK-100038,The subscription has the wrong tax amount.,billing
+TCK-100966,Please explain the mobile application; it can you explain this.,general
+TCK-100375,Can you help? The integration rejects my credentials.,technical
+TCK-100470,Can you help? The login page keeps failing.,technical
+TCK-100968,I need more details about user guide,general
+TCK-100851,"hello support, I have a question about the mobile application; it is this available.",general
+TCK-100705,I am contacting HR regarding my employee profile; it needs to be submitted.,hr
+TCK-100842,"ASAP, My service information can you provide more information",general
+TCK-100195,I have a question about billing.,billing
+TCK-100855,I have a question about company,general
+TCK-100865,"please, please explain your products; it can you tell me more.",general
+TCK-100504,"please, The salary has not been processed",hr
+TCK-100970,The contact information can you explain this.,general
+TCK-100831,"ASAP, Can you tell me about the documentation; it can you explain this.",general
+TCK-100580,I need clarification about payslip.,hr
+TCK-100969,"thanks, The product information can you explain this.",general
+TCK-100163,My charge was charged after cancellation.,billing
+TCK-100909,Please explain the support service; it can you provide more information.,general
+TCK-100153,Could you check renewal related to the monthly plan please.,billing
+TCK-100802,I would like to know about support related to the available plans as soon as possible.,general
+TCK-100994,i have a question about user guide.,general
+TCK-100756,Can you help? The mobile application can someone help me understand this.,general
+TCK-100112,The tax was charged twice.,billing
+TCK-100227,"hello support, I have an issue with card payment.",billing
+TCK-100689,I have a question about leave. thanks,hr
+TCK-100104,Could you check my account; it has not been refunded.,billing
+TCK-100422,"thanks, I am having trouble with the API request.",technical
+TCK-100420,Can someone fix the integration; it returns a 500 error.,technical
+TCK-100751,"hi team, I have a question about services related to your services I need assistance.",general
+TCK-100587,The bank details needs to be updated.,hr
+TCK-100781,"hello support, Can you help? The documentation where can I get more details",general
+TCK-100673,I am contacting HR regarding my employee record; it needs to be submitted.,hr
+TCK-100120,"hello support, My charge was charged after cancellation.",billing
+TCK-100054,"ASAP, Can someone investigate the monthly plan; it was charged after cancellation.",billing
+TCK-100152,"ASAP, I am contacting support about receipt related to my card as soon as possible",billing
+TCK-100404,The password reset rejects my credentials.,technical
+TCK-100946,My plans can you tell me more.,general
+TCK-100208,My payment has the wrong tax amount.,billing
+TCK-100659,"urgent, My emergency contact has not been received.",hr
+TCK-100844,"kindly check, I need more details about products.",general
+TCK-100763,Can you help? Your website what options are available.,general
+TCK-100009,My failed payment has not been refunded.,billing
+TCK-100808,I have a question about user guide.,general
+TCK-100037,I am contacting support about my card; it was declined.,billing
+TCK-100453,I need support for my account; it is not loading.,technical
+TCK-100652,I am having trouble with my benefits.,hr
+TCK-100254,I need support for server.,technical
+TCK-100304,Please look into the API request; it keeps failing.,technical
+TCK-100747,My salary statement needs clarification.,hr
+TCK-100572,The benefits enrollment needs to be submitted,hr
+TCK-100624,I am having trouble with my employee profile.,hr
+TCK-100733,My employment letter needs to be updated.,hr
+TCK-100892,"hi team, Can you tell me about the documentation; it where can I find this.",general
+TCK-100263,Please look into the server; it freezes after login.,technical
+TCK-100611,"ASAP, The HR policy is showing an incorrect value.",hr
+TCK-100298,Can you help? The api request freezes after login.,technical
+TCK-100415,My checkout page times out.,technical
+TCK-100151,Can you help? The transaction was charged after cancellation.,billing
+TCK-100789,"thanks, The available options can you provide more information.",general
+TCK-100641,"urgent, I have an employee query about emergency contact.",hr
+TCK-100890,"urgent, Can you help? Your services where can I get more details.",general
+TCK-100551,I need clarification about emergency contact.,hr
+TCK-100887,I would like to know about the support service; it can you provide more information.,general
+TCK-100489,Can you help? The server stopped working after the update.,technical
+TCK-100148,I have an issue with fee related to my subscription as soon as possible.,billing
+TCK-100147,"ASAP, Can you help? My subscription has the wrong tax amount.",billing
+TCK-100721,I have an employee query about my leave balance; it needs to be updated.,hr
+TCK-100932,"asap, i am having trouble with your company.",general
+TCK-100740,I am contacting HR regarding employment letter related to my salary account,hr
+TCK-100660,I am contacting HR regarding my attendance record; it needs clarification.,hr
+TCK-100349,Please troubleshoot my account; it times out.,technical
+TCK-100464,Can someone fix website.,technical
+TCK-100326,I have a question about mobile app. thanks,technical
+TCK-100187,Please look into failed payment related to the monthly plan — please advise.,billing
+TCK-100124,I need assistance with charge related to the monthly plan for my account thanks,billing
+TCK-100854,Could you help me understand the support service; it where can I find this.,general
+TCK-100609,"kindly check, The benefits enrollment is showing an incorrect value.",hr
+TCK-100144,Could you check card payment.,billing
+TCK-100959,"thanks, I am having trouble with the mobile application.",general
+TCK-100198,The renewal has not generated a receipt.,billing
+TCK-100610,"need help, I have a question about personal details",hr
+TCK-100280,Can you help? The dashboard keeps failing.,technical
+TCK-100294,Can you help? The integration is not loading.,technical
+TCK-100401,"please, Can you help? The server does not respond.",technical
+TCK-100123,Can you help? My order was charged twice.,billing
+TCK-100184,"kindly check, Please look into my recent purchase; it was declined",billing
+TCK-100203,I need help regarding credit related to my account and let me know what I should do.,billing
+TCK-100439,Please look into authentication related to the server and let me know what I should do,technical
+TCK-100247,Can you help? My order has not been refunded.,billing
+TCK-100416,I am having trouble with the website.,technical
+TCK-100933,Can you tell me about mobile application related to your products I would appreciate your help.,general
+TCK-100766,The contact information where can I find this.,general
+TCK-100907,"ASAP, I need more details about FAQ related to the documentation please.",general
+TCK-100836,could you provide information about company.,general
+TCK-100888,I am having trouble with your website.,general
+TCK-100130,Can you help? My subscription has the wrong tax amount.,billing
+TCK-100638,Please help me with my benefits; it is not visible in the portal.,hr
+TCK-100403,Can you help? The login page stopped working after the update.,technical
+TCK-100785,My user guide how does this work,general
+TCK-100771,"urgent, The available options what options are available.",general
+TCK-100736,My employment verification has not been processed,hr
+TCK-100914,Please explain services related to the available plans,general
+TCK-100220,I have an issue with credit related to the monthly plan and let me know what I should do.,billing
+TCK-100642,the payslip has not been processed.,hr
+TCK-100916,Can you help? Your products can you tell me more.,general
+TCK-100753,I need more details about available options related to your products and let me know what I should do.,general
+TCK-100807,The FAQ is this available.,general
+TCK-100920,"need help, I would like to know about FAQ.",general
+TCK-100625,My emergency contact needs approval.,hr
+TCK-100875,"hello support, I am having trouble with your company",general
+TCK-100761,Where can I find information about contact information.,general
+TCK-100387,My account access keeps failing,technical
+TCK-100973,Where can I find information about user guide.,general
+TCK-100510,I have an employee query about my payslip; it requires HR assistance.,hr
+TCK-100268,The mobile app does not respond.,technical
+TCK-100820,"urgent, Can you tell me about support related to your company — please advise.",general
+TCK-100442,I am having trouble with the integration,technical
+TCK-100497,"asap, i need technical help with application related to my account please.",technical
+TCK-100113,I need help regarding duplicate charge.,billing
+TCK-100692,Can you help? My employee record needs to be corrected.,hr
+TCK-100233,Please help me with fee.,billing
+TCK-100870,could you help me understand user guide related to the product catalog as soon as possible.,general
+TCK-100608,I have a question about bank details,hr
+TCK-100672,Please help me with my salary account; it needs clarification. help needed,hr
+TCK-100374,"hello support, Could you investigate mobile app related to the integration I would appreciate your help.",technical
+TCK-100982,The products how does this work.,general
+TCK-100843,Where can I find information about the available plans; it what options are available.,general
+TCK-100234,Please help me with tax related to the cancelled order and let me know what I should do.,billing
+TCK-100786,The FAQ can someone help me understand this.,general
+TCK-100677,"thanks, I have a question about attendance",hr
+TCK-100318,"need help, The dashboard stopped working after the update.",technical
+TCK-100649,I am contacting HR regarding my employment details; it is showing an incorrect value. thx,hr
+TCK-100411,I am facing an issue with the application; it times out.,technical
+TCK-100899,My user guide where can I find this.,general
+TCK-100710,the employment letter needs to be submitted.,hr
+TCK-100359,Can someone fix server related to the upload feature — please advise.,technical
+TCK-100259,Can you help? The website rejects my credentials.,technical
+TCK-100745,Can you help? My personal information needs clarification.,hr
+TCK-100628,I am having trouble with my HR request.,hr
+TCK-100633,I need HR assistance with my employee record; it requires HR assistance.,hr
+TCK-100283,"please, Could you investigate my account; it shows a blank screen.",technical
+TCK-100377,Can you help? My account keeps failing.,technical
+TCK-100385,The password reset crashes unexpectedly. thanks,technical
+TCK-100225,I need assistance with card payment. thx,billing
+TCK-100954,I have a question about contact information.,general
+TCK-100815,The services what options are available,general
+TCK-100473,can someone fix integration.,technical
+TCK-100348,Can you help? The upload feature times out,technical
+TCK-100506,The parental leave is showing an incorrect value.,hr
+TCK-100640,Please help me with salary related to my benefits Please advise.,hr
+TCK-100988,The business hours can you tell me more,general
+TCK-100929,"please, The support can you provide more information.",general
+TCK-100906,"urgent, I would like to know about support related to your company — please advise.",general
+TCK-100620,"urgent, the employment verification needs to be submitted.",hr
+TCK-100856,I am having trouble with the product catalog.,general
+TCK-100804,"need help, Can you tell me about available options related to the support service and let me know what I should do. thx",general
+TCK-100646,The employment verification needs to be submitted,hr
+TCK-100847,"urgent, Could you provide information about business hours related to the documentation I would appreciate your help.",general
+TCK-100557,I am contacting HR regarding personal details.,hr
+TCK-100958,the mobile application what options are available.,general
+TCK-100578,The benefits enrollment has not been received. thx,hr
+TCK-100796,"hi team, Can you help? The documentation is this available.",general
+TCK-100086,I have an issue with receipt related to the payment for my account.,billing
+TCK-100243,I need assistance with credit.,billing
+TCK-100699,"ASAP, I need clarification about my HR request; it needs to be corrected.",hr
+TCK-100160,"urgent, The payment has the wrong tax amount.",billing
+TCK-100525,I need clarification about personal details related to my leave balance Please advise.,hr
+TCK-100036,can someone investigate my order; it was charged incorrectly.,billing
+TCK-100541,My personal details needs to be submitted.,hr
+TCK-100171,I have a question about payment.,billing
+TCK-100655,"hi team, I am contacting HR regarding bank details related to my HR request Please advise.",hr
+TCK-100891,The available options can you explain this.,general
+TCK-100858,My available options can you explain this.,general
+TCK-100848,"urgent, Can you tell me about the support service; it what options are available.",general
+TCK-100945,Can you tell me about product information,general
+TCK-100734,My HR policy needs to be corrected.,hr
+TCK-100096,"hello support, I am having trouble with my recent purchase.",billing
+TCK-100564,I have an employee query about attendance related to my employee record please.,hr
+TCK-100241,Please look into my subscription; it has not generated a receipt.,billing
+TCK-100743,I am having trouble with my leave balance. pls,hr
+TCK-100575,My employment letter needs clarification.,hr
+TCK-100691,Please help me with my leave balance; it needs approval.,hr
+TCK-100461,"hi team, My checkout page crashes unexpectedly.",technical
+TCK-100554,Please look into employee benefits related to my employee profile I need assistance.,hr
+TCK-100889,I have a question about product information.,general
+TCK-100207,The credit has the wrong tax amount,billing
+TCK-100393,My password reset is not loading.,technical
+TCK-100795,I need more details about the mobile application; it can someone help me understand this.,general
+TCK-100398,"kindly check, I have a question about API. help needed",technical
+TCK-100767,Could you help me understand the product catalog; it can you tell me more.,general
+TCK-100849,"thanks, Could you provide information about available options.",general
+TCK-100218,I am having trouble with the cancelled order.,billing
+TCK-100005,Please look into credit related to the transaction Please advise.,billing
+TCK-100769,Can you help? The mobile application how does this work.,general
+TCK-100643,i have a question about employee portal.,hr
+TCK-100930,"hello support, I need more details about company.",general
+TCK-100613,My salary statement needs approval.,hr
+TCK-100739,I am contacting HR regarding my payslip; it is showing an incorrect value.,hr
+TCK-100547,"please, I have a question about emergency contact.",hr
+TCK-100726,"hello support, I am having trouble with my benefits",hr
+TCK-100684,the parental leave has not been processed.,hr
+TCK-100099,Please help me with duplicate charge.,billing
+TCK-100805,"ASAP, Could you help me understand your products; it where can I get more details.",general
+TCK-100728,I am contacting HR regarding my HR request; it needs to be submitted.,hr
+TCK-100574,The emergency contact needs to be submitted.,hr
+TCK-100407,"hi team, i have a question about password reset.",technical
+TCK-100503,Could you check employment letter,hr
+TCK-100048,The duplicate charge was declined.,billing
+TCK-100033,i need help regarding card payment related to the monthly plan please. pls,billing
+TCK-100780,"need help, the services can you explain this.",general
+TCK-100840,Can you help? Your services can you provide more information.,general
+TCK-100201,Please look into fee related to the cancelled order Can you help?,billing
+TCK-100135,Please help me with the payment; it has not been refunded.,billing
+TCK-100028,Can you help? My account was declined.,billing
+TCK-100881,My support I would like more information,general
+TCK-100231,I need assistance with my card; it has the wrong tax amount.,billing
+TCK-100490,I need support for the website; it returns a 500 error.,technical
+TCK-100773,Can you tell me about your products; it can you provide more information.,general
+TCK-100379,i need technical help with verification code related to the mobile app and let me know what i should do.,technical
+TCK-100289,I have a question about file upload.,technical
+TCK-100419,Could you investigate the website; it shows a blank screen,technical
+TCK-100675,Please help me with leave related to my attendance record as soon as possible.,hr
+TCK-100392,I need support for integration.,technical
+TCK-100593,"kindly check, Can you help? My benefits needs to be submitted.",hr
+TCK-100499,"ASAP, Can someone fix password reset",technical
+TCK-100139,The receipt was charged twice,billing
+TCK-100063,Can you help? The transaction was charged incorrectly.,billing
+TCK-100472,I am having trouble with the dashboard.,technical
+TCK-100648,I need clarification about my salary account; it needs clarification.,hr
+TCK-100129,"please, Could you check tax related to the payment — please advise.",billing
+TCK-100977,The support how does this work.,general
+TCK-100521,I need HR assistance with salary statement related to my HR request Can you help? thanks,hr
+TCK-100839,I have a question about documentation,general
+TCK-100963,I would like to know about your products; it what options are available.,general
+TCK-100065,"kindly check, Please help me with my recent purchase; it was declined.",billing
+TCK-100813,Can you help? The support service how does this work.,general
+TCK-100015,Could you check fee related to the monthly plan I need assistance.,billing
+TCK-100157,I am contacting support about the monthly plan; it has the wrong tax amount.,billing
+TCK-100041,i am contacting support about fee,billing
+TCK-100493,"ASAP, My API freezes after login.",technical
+TCK-100380,I need support for mobile app.,technical
+TCK-100188,"hello support, I am having trouble with the transaction.",billing
+TCK-100764,"urgent, I have a question about company.",general
+TCK-100217,My transaction was declined.,billing
+TCK-100792,Could you help me understand products.,general
+TCK-100053,My credit was charged twice.,billing
+TCK-100879,The user guide can you tell me more,general
+TCK-100338,"kindly check, The login freezes after login.",technical
+TCK-100749,I have an employee query about HR policy related to my personal information for my account,hr
+TCK-100720,"hello support, Can you help? My employee profile needs to be updated.",hr
+TCK-100725,I am contacting HR regarding leave.,hr
+TCK-100296,I need technical help with authentication,technical
+TCK-100702,I am contacting HR regarding attendance related to my HR request I would appreciate your help.,hr
+TCK-100252,I have a question about API.,technical
+TCK-100727,My benefits enrollment needs to be corrected.,hr
+TCK-100462,my mobile app times out.,technical
+TCK-100456,Could you investigate website.,technical
+TCK-100997,I have a question about documentation.,general
+TCK-100816,Can you help? The user guide can you explain this pls,general
+TCK-100863,The services how does this work.,general
+TCK-100270,The dashboard stopped working after the update.,technical
+TCK-100202,"hello support, My transaction was charged incorrectly.",billing
+TCK-100162,my payment was charged incorrectly.,billing
+TCK-100556,I am having trouble with my personal information.,hr
+TCK-100730,Please look into emergency contact.,hr
+TCK-100402,The server returns a 500 error.,technical
+TCK-100703,I need HR assistance with my salary account; it has not been processed.,hr
+TCK-100477,I am having trouble with the integration.,technical
+TCK-100822,"hi team, I am having trouble with the support service. pls",general
+TCK-100772,Can you help? The available plans can you provide more information.,general
+TCK-100106,I need assistance with billing related to my invoice and let me know what I should do,billing
+TCK-100566,"urgent, I am having trouble with my employee record.",hr
+TCK-100390,I need support for dashboard related to my account for my account.,technical
+TCK-100002,I am contacting support about my order; it has an additional fee.,billing
+TCK-100938,Could you help me understand the support service; it how does this work,general
+TCK-100983,My documentation can you tell me more.,general
+TCK-100562,i have a question about bank details.,hr
+TCK-100081,Can you help? The payment has not generated a receipt.,billing
+TCK-100206,"ASAP, Can you help? The cancelled order was charged after cancellation.",billing
+TCK-100035,I have an issue with duplicate charge.,billing
+TCK-100776,"hi team, I have a question about features.",general
+TCK-100509,i need clarification about leave,hr
+TCK-100428,Can someone fix application.,technical
+TCK-100455,Can you help? The upload feature crashes unexpectedly.,technical
+TCK-100367,My authentication rejects my credentials.,technical
+TCK-100092,I am having trouble with the payment.,billing
+TCK-100340,Please troubleshoot the mobile app; it shows a blank screen.,technical
+TCK-100898,I need more details about FAQ. thanks,general
+TCK-100565,Could you check my employee profile; it needs to be updated.,hr
+TCK-100346,I am having trouble with the login page.,technical
+TCK-100777,Can you help? The user guide is this available.,general
+TCK-100242,the credit is showing an unexpected amount.,billing
+TCK-100014,The tax has not generated a receipt.,billing
+TCK-100316,"please, My integration crashes unexpectedly.",technical
+TCK-100601,I am having trouble with my attendance record,hr
+TCK-100388,"thanks, Please look into checkout page.",technical
+TCK-100274,There is a problem with the integration; it keeps failing,technical
+TCK-100167,My billing was charged incorrectly.,billing
+TCK-100841,i have a question about faq.,general
+TCK-100993,The available options where can I get more details.,general
+TCK-100647,My leave is showing an incorrect value.,hr
+TCK-100819,"urgent, I have a question about business hours.",general
+TCK-100485,My application does not respond.,technical
+TCK-100981,I am having trouble with the support service.,general
+TCK-100505,I am having trouble with my employment details.,hr
+TCK-100832,I am having trouble with your products.,general
+TCK-100244,"hello support, Can someone investigate my subscription; it was charged after cancellation.",billing
+TCK-100567,Can you help? My personal information needs to be updated.,hr
+TCK-100876,The product information I would like more information,general
+TCK-100563,Can you help? My employment details is showing an incorrect value.,hr
+TCK-100687,"hi team, Can you help? My employment details needs to be corrected.",hr
+TCK-100190,The subscription was processed twice.,billing
+TCK-100783,I have a question about user guide,general
+TCK-100700,Please help me with my HR request; it needs approval.,hr
+TCK-100476,"hi team, Please troubleshoot checkout page. help needed",technical
+TCK-100682,My benefits enrollment has not been processed.,hr
+TCK-100511,my parental leave needs to be submitted,hr
+TCK-100059,"hello support, I am having trouble with the payment.",billing
+TCK-100475,My mobile app freezes after login.,technical
+TCK-100561,I have an employee query about employee benefits.,hr
+TCK-100857,"thanks, The business hours can someone help me understand this",general
+TCK-100748,I am having trouble with my salary account.,hr
+TCK-100253,I need support for website related to my account please.,technical
+TCK-100022,Can someone investigate my order; it was charged twice.,billing
+TCK-100314,Could you investigate website related to the integration as soon as possible.,technical
+TCK-100460,I need support for the upload feature; it freezes after login.,technical
+TCK-100161,Can you help? My account has not generated a receipt help needed,billing
+TCK-100277,"hi team, my api rejects my credentials",technical
+TCK-100956,My features can you explain this.,general
+TCK-100192,Can you help? The monthly plan is showing an unexpected amount.,billing
+TCK-100386,"need help, The API freezes after login. thx",technical
+TCK-100806,Can you tell me about the product catalog; it can you provide more information.,general
+TCK-100414,The API rejects my credentials.,technical
+TCK-100492,"need help, Could you investigate dashboard.",technical
+TCK-100344,My verification code freezes after login.,technical
+TCK-100770,I have a question about contact information,general
+TCK-100309,There is a problem with verification code related to my account as soon as possible.,technical
+TCK-100662,"hello support, The salary statement is not visible in the portal help needed",hr
+TCK-100131,Can you help? My order has an additional fee,billing
+TCK-100664,I need clarification about my employee record; it needs approval.,hr
+TCK-100872,could you provide information about the mobile application; it can you explain this,general
+TCK-100100,"please, I have a question about card payment.",billing
+TCK-100373,Can someone fix mobile app related to the API request,technical
+TCK-100088,Could you check my invoice; it was declined.,billing
+TCK-100459,My server freezes after login,technical
+TCK-100331,Can you help? The upload feature returns a 500 error. pls,technical
+TCK-100215,The charge has the wrong tax amount.,billing
+TCK-100467,I have a question about account access,technical
+TCK-100122,Could you check failed payment related to my recent purchase I need assistance. help needed,billing
+TCK-100615,I have a question about salary.,hr
+TCK-100021,The refund was processed twice.,billing
+TCK-100701,My bank details is not visible in the portal. thx,hr
+TCK-100072,The fee was processed twice.,billing
+TCK-100107,I have an issue with subscription. help needed,billing
+TCK-100271,"hi team, There is a problem with application.",technical
+TCK-100861,"urgent, I have a question about services.",general
+TCK-100436,"thanks, I am having trouble with the application.",technical
+TCK-100103,My billing has an additional fee.,billing

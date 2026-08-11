@@ -1,0 +1,169 @@
+#Linear model
+from sklearn.linear_model import (LogisticRegression, SGDClassifier, Perceptron, PassiveAggressiveClassifier)
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+#tree model
+from sklearn.tree import DecisionTreeClassifier
+
+#Ensemble model
+from sklearn.ensemble import (RandomForestClassifier, ExtraTreesClassifier, StackingClassifier, AdaBoostClassifier, GradientBoostingClassifier, HistGradientBoostingClassifier, 
+    BaggingClassifier, VotingClassifier)
+
+#Neural network
+from sklearn.neural_network import MLPClassifier
+
+#Naive bayes
+from sklearn.naive_bayes import (GaussianNB, MultinomialNB, BernoulliNB, CategoricalNB)
+
+#KNN
+from sklearn.neighbors import KNeighborsClassifier
+
+#SVM
+from sklearn.svm import SVC, LinearSVC
+
+#Base line
+from sklearn.dummy import DummyClassifier
+
+#High-performance gradient boosting frameworks
+#XGBoost (External Library)
+from xgboost import XGBClassifier
+from lightgbm import LGBMClassifier
+
+# Metrics for Classification
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, classification_report, confusion_matrix, roc_auc_score
+
+from sklearn.metrics import (
+    accuracy_score,
+    classification_report,
+    confusion_matrix,
+    ConfusionMatrixDisplay,
+    f1_score, roc_auc_score
+)
+import re
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.pipeline import Pipeline
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+df=pd.read_csv('/content/ticket_categorizer.csv')
+df.shape
+df.info()
+df.dtypes
+df.isna().sum()
+df.columns
+df.duplicated().sum()
+df['department'].value_counts()
+
+X = df["ticket_text"]
+y = df["department"]
+print("X shape:", X.shape)
+print("y shape:", y.shape)
+
+print("\nClasses:")
+print(y.value_counts())
+
+
+le = LabelEncoder()
+
+y_encoded = le.fit_transform(y)
+
+print("Class mapping:")
+
+for i, class_name in enumerate(le.classes_):
+    print(i, "->", class_name)
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X,
+    y_encoded,
+    test_size=0.20,
+    stratify=y_encoded,
+    random_state=42
+)
+print("Training:", X_train.shape, y_train.shape)
+print("Testing :", X_test.shape, y_test.shape)
+
+def clean_text(text):
+  text=str(text).lower()
+  text=re.sub(r'http\S+|www\S+',' ',text)
+  text=re.sub(r"[^a-z\s]",' ',text)
+  text=re.sub(r"\s+",' ',text)
+  text=text.strip()
+  return text
+
+X_train_clean=X_train.apply(clean_text)
+X_test_clean=X_test.apply(clean_text)
+
+pipeline=Pipeline( 
+    [('tfidf',TfidfVectorizer()),
+     ('classifier',LinearSVC())]
+) 
+pipeline
+
+pipeline.fit(X_train_clean, y_train)
+y_pred=pipeline.predict(X_test_clean)
+cls_report=classification_report(y_test, y_pred)
+print(cls_report)
+print("="*60)
+con_matrix=confusion_matrix(y_test, y_pred)
+print(con_matrix)
+
+param_grid = {
+    "tfidf__ngram_range": [
+        (1, 1),
+        (1, 2)
+    ],
+    
+    "tfidf__min_df": [
+        1,
+        2
+    ],
+    
+    "tfidf__max_df": [
+        0.95,
+        1.0
+    ],
+    
+    "tfidf__sublinear_tf": [
+        True,
+        False
+    ],
+    
+    "classifier__C": [
+        0.5,
+        1,
+        2
+    ]
+}
+
+
+grid_search = GridSearchCV(
+    estimator=pipeline,
+    param_grid=param_grid,
+    scoring="f1_macro",
+    cv=5,
+    n_jobs=-1,
+    verbose=1
+)
+
+grid_search.fit(X_train_clean, y_train)
+best_model=grid_search.best_estimator_
+
+y_pred = best_model.predict(X_test_clean)
+print(
+    classification_report(
+        y_test,
+        y_pred,
+        target_names=le.classes_,
+        digits=3
+    )
+)
+cm = confusion_matrix(
+    y_test,
+    y_pred
+)
+
+print(cm)
+

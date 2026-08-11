@@ -1,0 +1,61 @@
+Raw Dataset
+    ↓
+Train/Test Split
+    ↓
+Pipeline
+    ├── Text Cleaning
+    ├── TF-IDF
+    └── LinearSVC
+    ↓
+GridSearchCV
+    └── 5-Fold CV
+    ↓
+Best Model
+    ↓
+Hold-out Test Evaluation
+    ├── Accuracy
+    ├── Precision
+    ├── Recall
+    ├── Macro F1
+    └── Confusion Matrix
+    ↓
+Unseen Tickets
+    ↓
+Challenging / Ambiguous Tickets
+    ↓
+Generalization Analysis
+
+
+"I developed an end-to-end multi-class NLP classification pipeline using TF-IDF and LinearSVC. I used stratified train-test splitting and 5-fold cross-validation through GridSearchCV to tune the vectorizer and classifier parameters. The model achieved perfect performance on the synthetic hold-out set because the generated dataset contains highly distinctive class vocabulary. To avoid relying solely on this optimistic result, I additionally evaluated the model on a manually created set of 30 previously unseen and more challenging support tickets. This provided a more realistic indication of generalization and helped identify potential ambiguous classification cases."
+
+Reflection
+
+The current model performs well on the synthetic dataset, but real-world ticket data would contain more ambiguous language, spelling errors, domain-specific terminology, and changing user behavior. With more data, I would evaluate the model on a larger and more diverse production-like dataset and calibrate confidence scores before fully automating routing. I would also monitor model performance over time and retrain it as new ticket patterns emerge.
+
+
+                 TICKET
+          Subject + Body Text
+                    │
+                    ▼
+              Text Cleaning
+                    │
+                    ▼
+                 TF-IDF
+                    │
+                    ▼
+          Logistic Regression
+                    │
+          ┌─────────┴─────────┐
+          │                   │
+       Category           Confidence
+          │                   │
+          │             < 60% │ ≥ 60%
+          │                   │
+          │                   ▼
+          │             Human Review
+          │
+          ▼
+      Priority Rules
+          │
+          ▼
+    Department Routing
